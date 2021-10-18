@@ -1,0 +1,35 @@
+* {
+    font-family: 'Lato', sans-serif; /* Change your font family */
+  }
+  .candetails-body {
+    margin-left: 350px;
+    margin-top: 150px;
+  }
+  .candetails-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .candetails-table th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .candetails-table tr:hover {background-color: rgb(219, 219, 190);}
+  .candetails-box {
+    border: 2px;
+    width: 900px;
+
+  }
+  .candetails-h1 {
+    color: white;
+    background-color: #00FFFF;
+    text-align: center;
+  }
+  .register-input {
+      padding-top: 12px;
+      border: none;
+      border-bottom: 2px solid red;
+      width: 880px;
+  }
